@@ -22,6 +22,7 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 ## Language-agnostic / principles
 
 - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://www.manning.com/books/data-oriented-programming)
+- [ ] 💲[Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity)
 
 ## OCaml
 
