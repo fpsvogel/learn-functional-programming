@@ -9,9 +9,12 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 ## Table of contents
 
 - [Language-agnostic / principles](#language-agnostic--principles)
-- [Haskell](#haskell)
+- [OCaml](#ocaml)
   - [Books/courses](#bookscourses)
   - [Exercises](#exercises)
+- [Haskell](#haskell)
+  - [Books/courses](#bookscourses-1)
+  - [Exercises](#exercises-1)
   - [Applications](#applications)
   - [More resources](#more-resources)
 - [Other languages](#other-languages)
@@ -19,6 +22,20 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 ## Language-agnostic / principles
 
 - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://www.manning.com/books/data-oriented-programming)
+
+## OCaml
+
+### Books/courses
+
+- [ ] [OCaml from the Very Beginning](https://ocaml-book.com/)
+- [ ] [OCaml Programming: Correct + Efficient + Beautiful (a.k.a. CS 3110)](https://cs3110.github.io/textbook/cover.html)
+- [ ] [OCaml by Example](https://o1-labs.github.io/ocamlbyexample/)
+- [ ] [Real World OCaml](https://dev.realworldocaml.org/toc.html)
+
+### Exercises
+
+- [ ] [Exercism - OCaml](https://exercism.org/tracks/ocaml)
+- [ ] [99 OCaml Exercises](https://ocaml.org/exercises)
 
 ## Haskell
 
