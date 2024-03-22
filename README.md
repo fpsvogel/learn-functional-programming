@@ -17,6 +17,13 @@ If you notice any broken links here, please let me know by [opening an issue](ht
   - [Exercises](#exercises-1)
   - [Applications](#applications)
   - [More resources](#more-resources)
+- [Clojure](#clojure)
+  - [Books/courses](#bookscourses-2)
+  - [Communities](#communities)
+  - [Videos about the REPL](#videos-about-the-repl)
+  - [Exercises](#exercises-2)
+  - [Web development](#web-development)
+  - [More resources](#more-resources-1)
 - [Other languages](#other-languages)
 
 ## Language-agnostic / principles
@@ -62,6 +69,45 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 ### More resources
 
 - [ ] [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
+
+## Clojure
+
+### Books/courses
+
+- [ ] [Calva - Get Started with Clojure](https://calva.io/get-started-with-clojure/)
+- [ ] [Clojure MOOC](https://moocfi.github.io/courses/2014/clojure/)
+- [ ] [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true)
+- [ ] [Clojure by Example](https://github.com/inclojure-org/clojure-by-example/tree/master/src/clojure_by_example)
+- 💲[ ] [Programming Clojure](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/)
+- 💲[ ] [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
+- 💲[ ] [Clojure: The Essential Reference](https://www.manning.com/books/clojure-the-essential-reference)
+- 💲[ ] [Clojure in Action](https://www.manning.com/books/clojure-in-action-second-edition)
+- 💲[ ] [Clojure Applied](https://pragprog.com/titles/vmclojeco/clojure-applied/)
+
+### Communities
+
+- [Clojurians Slack](http://clojurians.net)
+
+### Videos about the REPL
+
+- [ ] [Two most important things to start with when learning Lisp](https://www.youtube.com/watch?v=JB26uX225L4)
+- [ ] [How to be a REPL Sorcerer](https://www.youtube.com/watch?v=lR2vbwuzrIM)
+- [ ] [Developing ClojureScript With Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E)
+
+### Exercises
+
+- [ ] [4clojure](https://4clojure.oxal.org/)
+- [ ] [Exercism - Clojure](https://exercism.org/tracks/clojure)
+
+### Web development
+
+- [Kit framework](https://kit-clj.github.io/)
+- 💲[ ] [Web Development with Clojure](https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/)
+
+### More resources
+
+- [ ] [Clojure beginner resources](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f)
+- [ ] [An opinionated list of excellent Clojure learning materials](https://gist.github.com/ssrihari/0bf159afb781eef7cc552a1a0b17786f)
 
 ## Other languages
 
