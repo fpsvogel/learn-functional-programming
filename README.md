@@ -12,16 +12,19 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 - [OCaml](#ocaml)
   - [Books/courses](#bookscourses)
   - [Exercises](#exercises)
-- [Haskell](#haskell)
+- [Scheme/Racket](#schemeracket)
   - [Books/courses](#bookscourses-1)
   - [Exercises](#exercises-1)
+- [Haskell](#haskell)
+  - [Books/courses](#bookscourses-2)
+  - [Exercises](#exercises-2)
   - [Applications](#applications)
   - [More resources](#more-resources)
 - [Clojure](#clojure)
-  - [Books/courses](#bookscourses-2)
+  - [Books/courses](#bookscourses-3)
   - [Communities](#communities)
   - [Videos about the REPL](#videos-about-the-repl)
-  - [Exercises](#exercises-2)
+  - [Exercises](#exercises-3)
   - [Web development](#web-development)
   - [More resources](#more-resources-1)
 
@@ -45,6 +48,18 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 
 - [ ] [Exercism - OCaml](https://exercism.org/tracks/ocaml)
 - [ ] [99 OCaml Exercises](https://ocaml.org/exercises)
+
+## Scheme/Racket
+
+### Books/courses
+
+- [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) with [Racket SICP collections](https://docs.racket-lang.org/sicp-manual/index.html)
+- [ ] 💲[The Little Schemer](http://mitpress.mit.edu/9780262560993/the-little-schemer/)
+- [ ] 💲[The Seasoned Schemer](https://mitpress.mit.edu/9780262561006/the-seasoned-schemer/)
+
+### Exercises
+
+- [ ] [Exercism - Racket](https://exercism.org/tracks/racket)
 
 ## Haskell
 
