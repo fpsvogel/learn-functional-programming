@@ -8,7 +8,7 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 <!-- omit in toc -->
 ## Table of contents
 
-- [Principles/uncategorized](#principlesuncategorized)
+- [Principles](#principles)
 - [OCaml](#ocaml)
   - [Books/courses](#bookscourses)
   - [Exercises](#exercises)
@@ -27,13 +27,13 @@ If you notice any broken links here, please let me know by [opening an issue](ht
   - [Exercises](#exercises-3)
   - [Web development](#web-development)
   - [More resources](#more-resources-1)
+- [Front-end (JS-target) languages](#front-end-js-target-languages)
 
-## Principles/uncategorized
+## Principles
 
 - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://www.manning.com/books/data-oriented-programming)
 - [ ] 💲[Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity)
 - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
-- [ ] [PureScript](https://www.purescript.org/) for functional programming on the front end.
 
 ## OCaml
 
@@ -124,3 +124,10 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 
 - [ ] [Clojure beginner resources](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f)
 - [ ] [An opinionated list of excellent Clojure learning materials](https://gist.github.com/ssrihari/0bf159afb781eef7cc552a1a0b17786f)
+
+## Front-end (JS-target) languages
+
+- [ ] [PureScript](https://www.purescript.org/)
+- [ ] [ClojureScript](https://clojurescript.org/)
+  - [ ] [Learn ClojureScript](https://www.learn-clojurescript.com/)
+  - [ ] [ClojureScript Unravelled](http://funcool.github.io/clojurescript-unraveled/)
