@@ -93,6 +93,7 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 - [ ] [Calva - Get Started with Clojure](https://calva.io/get-started-with-clojure/)
 - [ ] [Clojure MOOC](https://moocfi.github.io/courses/2014/clojure/)
 - [ ] [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true)
+- [ ] [Clojure](https://clojure-book.gitlab.io/)
 - [ ] [Clojure by Example](https://github.com/inclojure-org/clojure-by-example/tree/master/src/clojure_by_example)
 - [ ] 💲[Programming Clojure](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/)
 - [ ] 💲[The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
