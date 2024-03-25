@@ -94,11 +94,11 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 - [ ] [Clojure MOOC](https://moocfi.github.io/courses/2014/clojure/)
 - [ ] [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true)
 - [ ] [Clojure by Example](https://github.com/inclojure-org/clojure-by-example/tree/master/src/clojure_by_example)
-- 💲[ ] [Programming Clojure](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/)
-- 💲[ ] [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
-- 💲[ ] [Clojure: The Essential Reference](https://www.manning.com/books/clojure-the-essential-reference)
-- 💲[ ] [Clojure in Action](https://www.manning.com/books/clojure-in-action-second-edition)
-- 💲[ ] [Clojure Applied](https://pragprog.com/titles/vmclojeco/clojure-applied/)
+- [ ] 💲[Programming Clojure](https://pragprog.com/titles/shcloj3/programming-clojure-third-edition/)
+- [ ] 💲[The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
+- [ ] 💲[Clojure: The Essential Reference](https://www.manning.com/books/clojure-the-essential-reference)
+- [ ] 💲[Clojure in Action](https://www.manning.com/books/clojure-in-action-second-edition)
+- [ ] 💲[Clojure Applied](https://pragprog.com/titles/vmclojeco/clojure-applied/)
 
 ### Communities
 
@@ -118,7 +118,7 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 ### Web development
 
 - [Kit framework](https://kit-clj.github.io/)
-- 💲[ ] [Web Development with Clojure](https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/)
+- [ ] 💲[Web Development with Clojure](https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/)
 
 ### More resources
 
