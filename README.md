@@ -9,22 +9,19 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 ## Table of contents
 
 - [Principles](#principles)
-- [OCaml](#ocaml)
+- [Scheme/Racket](#schemeracket)
   - [Books/courses](#bookscourses)
   - [Exercises](#exercises)
-- [Scheme/Racket](#schemeracket)
+- [Haskell](#haskell)
   - [Books/courses](#bookscourses-1)
   - [Exercises](#exercises-1)
-- [Haskell](#haskell)
-  - [Books/courses](#bookscourses-2)
-  - [Exercises](#exercises-2)
   - [Applications](#applications)
   - [More resources](#more-resources)
 - [Clojure](#clojure)
-  - [Books/courses](#bookscourses-3)
+  - [Books/courses](#bookscourses-2)
   - [Communities](#communities)
   - [Videos about the REPL](#videos-about-the-repl)
-  - [Exercises](#exercises-3)
+  - [Exercises](#exercises-2)
   - [Web development](#web-development)
   - [More resources](#more-resources-1)
 - [Front-end (JS-target) languages](#front-end-js-target-languages)
@@ -34,20 +31,6 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://www.manning.com/books/data-oriented-programming)
 - [ ] 💲[Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity)
 - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
-
-## OCaml
-
-### Books/courses
-
-- [ ] [OCaml from the Very Beginning](https://ocaml-book.com/)
-- [ ] [OCaml Programming: Correct + Efficient + Beautiful (a.k.a. CS 3110)](https://cs3110.github.io/textbook/cover.html)
-- [ ] [OCaml by Example](https://o1-labs.github.io/ocamlbyexample/)
-- [ ] [Real World OCaml](https://dev.realworldocaml.org/toc.html)
-
-### Exercises
-
-- [ ] [Exercism - OCaml](https://exercism.org/tracks/ocaml)
-- [ ] [99 OCaml Exercises](https://ocaml.org/exercises)
 
 ## Scheme/Racket
 
