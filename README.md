@@ -48,6 +48,7 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 
 ### Books/courses
 
+- [ ] 💲[Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/)
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
 - [ ] [Haskell MOOC](https://haskell.mooc.fi/)
 - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
