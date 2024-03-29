@@ -113,6 +113,7 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 
 ## Principles / language-agnostic
 
+- [ ] [Functional Calisthenics](https://www.codurance.com/publications/2017/10/12/functional-calisthenics)
 - [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://www.manning.com/books/data-oriented-programming)
 - [ ] 💲[Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity)
 - [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
