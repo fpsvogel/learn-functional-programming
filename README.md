@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Learn functional programming: a resource list
+# Learn functional programming
 
 Hi! I'm on a journey to learn functional programming. Won't you join me?
 
@@ -9,16 +9,17 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 ## Table of contents
 
 - [Racket (Scheme)](#racket-scheme)
-  - [Books/courses](#bookscourses)
+  - [Books](#books)
   - [Exercises](#exercises)
+  - [Community](#community)
 - [Haskell](#haskell)
-  - [Books/courses](#bookscourses-1)
+  - [Books/courses](#bookscourses)
   - [Exercises](#exercises-1)
   - [Applications](#applications)
   - [More resources](#more-resources)
 - [Clojure](#clojure)
-  - [Books/courses](#bookscourses-2)
-  - [Communities](#communities)
+  - [Books/courses](#bookscourses-1)
+  - [Community](#community-1)
   - [Videos about the REPL](#videos-about-the-repl)
   - [Exercises](#exercises-2)
   - [Web development](#web-development)
@@ -28,8 +29,9 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 
 ## Racket (Scheme)
 
-### Books/courses
+### Books
 
+- [ ] [How to Design Programs](https://htdp.org/2023-8-14/Book/index.html)
 - [ ] [Racket - Getting Started guides](https://docs.racket-lang.org/getting-started/index.html)
 - [ ] 💲[The Little Schemer](http://mitpress.mit.edu/9780262560993/the-little-schemer/)
 - [ ] 💲[The Seasoned Schemer](https://mitpress.mit.edu/9780262561006/the-seasoned-schemer/)
@@ -38,6 +40,10 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 ### Exercises
 
 - [ ] [Exercism - Racket](https://exercism.org/tracks/racket)
+
+### Community
+
+- [Racket Discord server](https://discord.com/invite/6Zq8sH5)
 
 ## Haskell
 
@@ -80,7 +86,7 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 - [ ] 💲[Clojure in Action](https://www.manning.com/books/clojure-in-action-second-edition)
 - [ ] 💲[Clojure Applied](https://pragprog.com/titles/vmclojeco/clojure-applied/)
 
-### Communities
+### Community
 
 - [Clojurians Slack](http://clojurians.net)
 
