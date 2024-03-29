@@ -8,7 +8,6 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 <!-- omit in toc -->
 ## Table of contents
 
-- [Principles](#principles)
 - [Scheme/Racket](#schemeracket)
   - [Books/courses](#bookscourses)
   - [Exercises](#exercises)
@@ -25,20 +24,15 @@ If you notice any broken links here, please let me know by [opening an issue](ht
   - [Web development](#web-development)
   - [More resources](#more-resources-1)
 - [Front-end (JS-target) languages](#front-end-js-target-languages)
-
-## Principles
-
-- [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://www.manning.com/books/data-oriented-programming)
-- [ ] 💲[Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity)
-- [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
+- [Principles / language-agnostic](#principles--language-agnostic)
 
 ## Scheme/Racket
 
 ### Books/courses
 
-- [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) with [Racket SICP collections](https://docs.racket-lang.org/sicp-manual/index.html)
 - [ ] 💲[The Little Schemer](http://mitpress.mit.edu/9780262560993/the-little-schemer/)
 - [ ] 💲[The Seasoned Schemer](https://mitpress.mit.edu/9780262561006/the-seasoned-schemer/)
+- [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) with [Racket SICP collections](https://docs.racket-lang.org/sicp-manual/index.html)
 
 ### Exercises
 
@@ -116,3 +110,9 @@ If you notice any broken links here, please let me know by [opening an issue](ht
 - [ ] [ClojureScript](https://clojurescript.org/)
   - [ ] [Learn ClojureScript](https://www.learn-clojurescript.com/)
   - [ ] [ClojureScript Unravelled](http://funcool.github.io/clojurescript-unraveled/)
+
+## Principles / language-agnostic
+
+- [ ] 💲[Data-Oriented Programming: Reduce software complexity](https://www.manning.com/books/data-oriented-programming)
+- [ ] 💲[Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity)
+- [ ] 💲[Mastering JavaScript Functional Programming](https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138)
