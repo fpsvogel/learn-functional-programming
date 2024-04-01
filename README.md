@@ -14,6 +14,7 @@ This list is not meant to be an exhaustive guide to learning FP, only my path to
   - [Books](#books)
   - [Exercises](#exercises)
   - [Community](#community)
+- [Build a text-based game in Racket](#build-a-text-based-game-in-racket)
 - [Build a web app in Ruby using FP](#build-a-web-app-in-ruby-using-fp)
 
 ## Learn Racket (Scheme)
@@ -33,6 +34,24 @@ This list is not meant to be an exhaustive guide to learning FP, only my path to
 ### Community
 
 - [Racket Discord server](https://discord.com/invite/6Zq8sH5)
+
+## Build a text-based game in Racket
+
+Resources to look through / filter down later: # TODO
+
+- <https://cacm.acm.org/practice/creating-languages-in-racket/>
+- <https://archive.org/details/Learning_ZIL_Steven_Eric_Meretzky_1995>
+- <https://docs.racket-lang.org/teachpack/2htdpuniverse.html?q=Universe>
+- <https://world.cs.brown.edu/>
+- <http://www.realmofracket.com/>
+- <https://github.com/ipofanes/2048.rkt>
+- <https://github.com/thomcc/W/>
+- <https://github.com/Leystryku/mpbomberman_racket>
+- <https://groups.google.com/g/racket-users/c/gZAH-NZVoo4?pli=1>
+- <https://r-cade.io/>
+- <https://docs.racket-lang.org/games/index.html>
+- <https://docs.racket-lang.org/cli/index.html>
+- <https://jackwarren.info/posts/guides/racket/racket-command-line/>
 
 ## Build a web app in Ruby using FP
 
