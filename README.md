@@ -24,6 +24,7 @@ This list is not meant to be an exhaustive guide to learning FP, only my path to
 - [ ] [How to Design Programs](https://htdp.org/2023-8-14/Book/index.html)
 - [ ] [How to Code](https://learning.edx.org/course/course-v1:UBCx+HtC1x+2T2017)
 - [ ] [Racket - Getting Started guides](https://docs.racket-lang.org/getting-started/index.html)
+- [ ] [Beautiful Racket](https://beautifulracket.com/)
 - [ ] 💲[The Little Schemer](http://mitpress.mit.edu/9780262560993/the-little-schemer/)
 - [ ] 💲[The Seasoned Schemer](https://mitpress.mit.edu/9780262561006/the-seasoned-schemer/)
 - [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) with [Racket SICP collections](https://docs.racket-lang.org/sicp-manual/index.html)
