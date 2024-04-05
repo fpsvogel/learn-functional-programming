@@ -10,19 +10,19 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 <!-- omit in toc -->
 ## Table of contents
 
-- [Learn Racket (Scheme)](#learn-racket-scheme)
+- [Learn Racket (Scheme (Lisp))](#learn-racket-scheme-lisp)
   - [Books](#books)
   - [Exercises](#exercises)
   - [Community](#community)
-- [Build a text-based game in Racket](#build-a-text-based-game-in-racket)
-- [Build a web app in Ruby using FP](#build-a-web-app-in-ruby-using-fp)
-- [Haskell](#haskell)
+  - [Build a text-based game](#build-a-text-based-game)
+- [Bring it home: FP-style web app in Ruby](#bring-it-home-fp-style-web-app-in-ruby)
+- [Final boss: Haskell](#final-boss-haskell)
   - [Books/courses](#bookscourses)
   - [Exercises](#exercises-1)
   - [Applications](#applications)
   - [More resources](#more-resources)
 
-## Learn Racket (Scheme)
+## Learn Racket (Scheme (Lisp))
 
 ### Books
 
@@ -42,7 +42,7 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 - [Racket Discord server](https://discord.com/invite/6Zq8sH5)
 
-## Build a text-based game in Racket
+### Build a text-based game
 
 Resources to look through / filter down later: # TODO
 
@@ -60,12 +60,12 @@ Resources to look through / filter down later: # TODO
 - <https://docs.racket-lang.org/cli/index.html>
 - <https://jackwarren.info/posts/guides/racket/racket-command-line/>
 
-## Build a web app in Ruby using FP
+## Bring it home: FP-style web app in Ruby
 
 - [ ] Learn the [Hanami](https://hanamirb.org/) framework with [Hanami Mastery](https://hanamimastery.com) and example apps found in GitHub repo searches ([1](https://github.com/search?q=hanami+example+pushed%3A%3E2022-01-01&type=repositories), [2](https://github.com/search?q=hanami+app+pushed%3A%3E2022-01-01&type=repositories), [3](https://github.com/search?q=hanami+application+pushed%3A%3E2022-01-01&type=repositories), [4](https://github.com/search?q=hanami+software+pushed%3A%3E2022-01-01&type=repositories)).
 - [ ] Explore [dry-rb](https://dry-rb.org/) gems.
 
-## Haskell
+## Final boss: Haskell
 
 ### Books/courses
 
