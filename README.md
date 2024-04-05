@@ -26,7 +26,6 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 ### Books
 
-- [ ] [How to Code](https://learning.edx.org/course/course-v1:UBCx+HtC1x+2T2017)
 - [ ] [Racket - Getting Started guides](https://docs.racket-lang.org/getting-started/index.html)
 - [ ] [Beautiful Racket](https://beautifulracket.com/)
 - [ ] 💲[The Little Schemer](http://mitpress.mit.edu/9780262560993/the-little-schemer/)
