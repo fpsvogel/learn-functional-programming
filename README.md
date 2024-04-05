@@ -27,7 +27,6 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 ### Books
 
 - [ ] [Racket - Getting Started guides](https://docs.racket-lang.org/getting-started/index.html)
-- [ ] [Beautiful Racket](https://beautifulracket.com/)
 - [ ] 💲[The Little Schemer](http://mitpress.mit.edu/9780262560993/the-little-schemer/)
 - [ ] 💲[The Seasoned Schemer](https://mitpress.mit.edu/9780262561006/the-seasoned-schemer/)
 - [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/) with [Racket SICP collections](https://docs.racket-lang.org/sicp-manual/index.html)
