@@ -5,7 +5,7 @@ Hi! I'm on a journey to learn functional programming (FP). Won't you join me?
 
 If you notice any broken links here, please let me know by [opening an issue](https://github.com/fpsvogel/learn-functional-programming/issues/new).
 
-This list is not meant to be an exhaustive guide to learning FP, only my path to learning some FP and applying it to Ruby. Before I narrowed its focus, the list [used to have](https://github.com/fpsvogel/learn-functional-programming/commit/c53a86ff1f39977dec451a5f34702602abf009de) sections on Haskell, Clojure, and other languages.
+This is not meant to be an exhaustive list of FP resources, only my path to learning some FP and applying it to Ruby.
 
 <!-- omit in toc -->
 ## Table of contents
@@ -16,6 +16,11 @@ This list is not meant to be an exhaustive guide to learning FP, only my path to
   - [Community](#community)
 - [Build a text-based game in Racket](#build-a-text-based-game-in-racket)
 - [Build a web app in Ruby using FP](#build-a-web-app-in-ruby-using-fp)
+- [Haskell](#haskell)
+  - [Books/courses](#bookscourses)
+  - [Exercises](#exercises-1)
+  - [Applications](#applications)
+  - [More resources](#more-resources)
 
 ## Learn Racket (Scheme)
 
@@ -59,3 +64,29 @@ Resources to look through / filter down later: # TODO
 
 - [ ] Learn the [Hanami](https://hanamirb.org/) framework with [Hanami Mastery](https://hanamimastery.com) and example apps found in GitHub repo searches ([1](https://github.com/search?q=hanami+example+pushed%3A%3E2022-01-01&type=repositories), [2](https://github.com/search?q=hanami+app+pushed%3A%3E2022-01-01&type=repositories), [3](https://github.com/search?q=hanami+application+pushed%3A%3E2022-01-01&type=repositories), [4](https://github.com/search?q=hanami+software+pushed%3A%3E2022-01-01&type=repositories)).
 - [ ] Explore [dry-rb](https://dry-rb.org/) gems.
+
+## Haskell
+
+### Books/courses
+
+- [ ] 💲[Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/)
+- [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
+- [ ] [Haskell MOOC](https://haskell.mooc.fi/)
+- [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
+- [ ] [thoughtbot - Maybe Haskell: Programming without Null](https://github.com/thoughtbot/maybe_haskell)
+- [ ] 💲[Haskell Programming From First Principles](https://haskellbook.com/)
+- [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
+
+### Exercises
+
+- [ ] [Exercism - Haskell](https://exercism.org/tracks/haskell)
+
+### Applications
+
+- [ ] [Obelisk](https://github.com/obsidiansystems/obelisk) is a web app framework in which the front end is written in Haskell too.
+- [ ] [IHP](https://ihp.digitallyinduced.com/) or [Yesod](https://www.yesodweb.com/) are more traditional web app frameworks.
+- [ ] [Pandoc](https://github.com/jgm/pandoc) as an example project outside of web dev.
+
+### More resources
+
+- [ ] [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
