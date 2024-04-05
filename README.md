@@ -71,6 +71,7 @@ Resources to look through / filter down later: # TODO
 
 - [ ] 💲[Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/)
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
+- [ ] [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/)
 - [ ] [Haskell MOOC](https://haskell.mooc.fi/)
 - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
 - [ ] [thoughtbot - Maybe Haskell: Programming without Null](https://github.com/thoughtbot/maybe_haskell)
