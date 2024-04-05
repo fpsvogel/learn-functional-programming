@@ -21,7 +21,6 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 ### Books/courses
 
-- [ ] 💲[Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com/)
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
 - [ ] [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/)
 - [ ] [Haskell MOOC](https://haskell.mooc.fi/)
