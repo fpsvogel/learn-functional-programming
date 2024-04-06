@@ -26,11 +26,16 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
 - [ ] [Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/)
 - [ ] [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/)
+- [ ] [Haskell Tutorial and Cookbook](https://markwatson.com/opencontent/haskell-cookbook.pdf)
 - [ ] [Haskell MOOC](https://haskell.mooc.fi/)
+- [ ] [Learn Haskell by Building a Blog Generator](https://learn-haskell.blog/)
+- [ ] 💲[Soar with Haskell](https://www.amazon.com/Soar-Haskell-beginners-functional-programming/dp/1805128450)
 - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
 - [ ] [thoughtbot - Maybe Haskell: Programming without Null](https://github.com/thoughtbot/maybe_haskell)
+- [ ] [What I Wish I Knew When Learning Haskell](https://github.com/sdiehl/wiwinwlh) (the website is offline, so you'll need to [compile it locally](https://github.com/sdiehl/wiwinwlh#compiling))
 - [ ] 💲[Haskell Programming From First Principles](https://haskellbook.com/)
 - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
+- [ ] 💲[Haskell (almost) Standard Libraries](https://leanpub.com/haskell-stdlibs)
 - [ ] 💲[Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
 
 ### Exercises
