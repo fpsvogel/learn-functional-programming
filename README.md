@@ -45,7 +45,9 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 ### More resources
 
-- [ ] [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
+- [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
+- ["Resources" section in The Haskell Guide](https://haskell-docs.netlify.app/resources/resources/)
+- [Haskell Books](https://www.extrema.is/articles/haskell-books)
 
 ## FP in Ruby
 
