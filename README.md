@@ -22,7 +22,6 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 ### Books/courses
 
 - [x] [Try Haskell](https://tryhaskell.org)
-- [ ] [The Haskell Guide](https://haskell-docs.netlify.app/)
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
 - [ ] [Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/)
 - [ ] [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/)
