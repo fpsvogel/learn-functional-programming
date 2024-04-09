@@ -13,6 +13,7 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 - [Haskell](#haskell)
   - [Books/courses](#bookscourses)
   - [Exercises](#exercises)
+  - [Make a CLI game](#make-a-cli-game)
   - [Applications](#applications)
   - [More resources](#more-resources)
 - [FP in Ruby](#fp-in-ruby)
@@ -39,6 +40,21 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 ### Exercises
 
 - [ ] [Exercism - Haskell](https://exercism.org/tracks/haskell)
+
+### Make a CLI game
+
+- **Guides:**
+  - [ ] <http://jackkelly.name/blog/archives/2022/05/28/text-mode_games_as_first_haskell_projects/index.html>
+  - [ ] <https://medium.com/codex/developing-a-video-game-in-haskell-e8259050e4dc>
+  - [ ] <https://whatthefunctional.wordpress.com/2018/03/07/making-a-text-adventure-in-haskell-part-1/#comments>
+  - [ ] <https://www.youtube.com/watch?app=desktop&v=WLYN7sUDm7Y>
+  - [ ] <https://haskell-via-sokoban.nomeata.de/>
+- **Examples:**
+  - <https://codereview.stackexchange.com/questions/159069/haskell-text-adventure-game>
+  - <https://github.com/emanuelfakh/Game_Haskell>
+  - <https://github.com/rklyne/haskell-text-adventure>
+  - <https://github.com/jensdanb/Pong2>
+  - <https://github.com/jasonstolaruk/CurryMUD>
 
 ### Applications
 
