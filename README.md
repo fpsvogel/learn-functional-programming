@@ -26,7 +26,6 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
 - [ ] [Haskell Tutorial and Cookbook](https://markwatson.com/opencontent/haskell-cookbook.pdf)
 - [ ] [Haskell MOOC](https://haskell.mooc.fi/)
-- [ ] [Learn Haskell by Building a Blog Generator](https://learn-haskell.blog/)
 - [ ] 💲[Soar with Haskell](https://www.amazon.com/Soar-Haskell-beginners-functional-programming/dp/1805128450)
 - [ ] 💲[Haskell Programming From First Principles](https://haskellbook.com/)
 - [ ] [thoughtbot - Maybe Haskell: Programming without Null](https://github.com/thoughtbot/maybe_haskell)
