@@ -24,7 +24,6 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 - [x] [Try Haskell](https://tryhaskell.org)
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
-- [ ] [Haskell Tutorial and Cookbook](https://markwatson.com/opencontent/haskell-cookbook.pdf)
 - [ ] [Haskell MOOC](https://haskell.mooc.fi/)
 - [ ] 💲[Soar with Haskell](https://www.amazon.com/Soar-Haskell-beginners-functional-programming/dp/1805128450)
 - [ ] 💲[Haskell Programming From First Principles](https://haskellbook.com/)
@@ -47,6 +46,7 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
   - [ ] <https://www.youtube.com/watch?app=desktop&v=WLYN7sUDm7Y>
   - [ ] <https://haskell-via-sokoban.nomeata.de/>
 - **Examples:**
+  - "Haskell Program to Play the Blackjack Card Game" in [Haskell Tutorial and Cookbook](https://markwatson.com/opencontent/haskell-cookbook.pdf)
   - <https://codereview.stackexchange.com/questions/159069/haskell-text-adventure-game>
   - <https://github.com/emanuelfakh/Game_Haskell>
   - <https://github.com/rklyne/haskell-text-adventure>
