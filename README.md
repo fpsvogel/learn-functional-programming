@@ -29,6 +29,7 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 - [ ] 💲[Haskell Programming From First Principles](https://haskellbook.com/)
 - [ ] [thoughtbot - Maybe Haskell: Programming without Null](https://github.com/thoughtbot/maybe_haskell)
 - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
+- [ ] [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
 - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
 - [ ] 💲[Haskell (almost) Standard Libraries](https://leanpub.com/haskell-stdlibs)
 - [ ] 💲[Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
