@@ -23,7 +23,6 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 ### Books/courses
 
 - [x] [Try Haskell](https://tryhaskell.org)
-- [ ] 💲[Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell)
 - [ ] [Haskell MOOC](https://haskell.mooc.fi/) and exercise solutions ([1](https://github.com/tinfoil-knight/haskell-mooc), [2](https://github.com/mikkom/haskell-mooc/tree/master), [3](https://github.com/dandax123/haskell-mooc-solutions))
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
 - [ ] 💲[Soar with Haskell](https://www.amazon.com/Soar-Haskell-beginners-functional-programming/dp/1805128450)
