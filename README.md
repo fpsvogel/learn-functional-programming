@@ -33,6 +33,7 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
 - [ ] 💲[Haskell (almost) Standard Libraries](https://leanpub.com/haskell-stdlibs)
 - [ ] 💲[Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
+- [ ] Look into [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) for [agda2hs](https://agda.github.io/agda2hs/)
 
 ### Exercises
 
