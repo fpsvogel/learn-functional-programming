@@ -16,6 +16,10 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
   - [Make a CLI game](#make-a-cli-game)
   - [Applications](#applications)
   - [More resources](#more-resources)
+- [Elixir](#elixir)
+  - [Books and videos](#books-and-videos)
+  - [Exercises](#exercises-1)
+  - [More resources](#more-resources-1)
 - [FP in Ruby](#fp-in-ruby)
   - ["Functional lite": prefer immutability and avoid side effects](#functional-lite-prefer-immutability-and-avoid-side-effects)
   - [Hanami/dry-rb ecosystem](#hanamidry-rb-ecosystem)
@@ -68,6 +72,27 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 - [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
 - ["Resources" section in The Haskell Guide](https://haskell-docs.netlify.app/resources/resources/)
 - [Haskell Books](https://www.extrema.is/articles/haskell-books)
+
+## Elixir
+
+### Books and videos
+
+- [ ] [Elixir: The Documentary](https://www.youtube.com/watch?v=lxYFOM3UJzo)
+- [ ] [The Soul of Erlang & Elixir](https://www.youtube.com/watch?v=JvBT4XBdoUE)
+- [ ] [Elixir and Phoenix after two years](https://nts.strzibny.name/elixir-phoenix-after-two-year) by a Rubyist
+- [ ] [Elixir School](https://elixirschool.com/en)
+- [ ] 💲[From Ruby to Elixir](https://pragprog.com/titles/sbelixir/from-ruby-to-elixir)
+- [ ] 💲[Elixir in Action](https://www.manning.com/books/elixir-in-action)
+
+### Exercises
+
+- [ ] [Elixir Koans](https://github.com/elixirkoans/elixir-koans)
+- [ ] [Exercism - Elixir](https://exercism.org/tracks/elixir)
+- [ ] Build a [SpaceTraders](https://spacetraders.io/) CLI client
+
+### More resources
+
+- ["Learning" page on the Elixir site](https://elixir-lang.org/learning.html)
 
 ## FP in Ruby
 
