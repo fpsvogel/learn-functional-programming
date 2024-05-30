@@ -45,6 +45,8 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 ### Exercises
 
 - [ ] [Exercism - Haskell](https://exercism.org/tracks/haskell)
+- [ ] [HackerRank - Functional Programming track](https://www.hackerrank.com/domains/fp)
+- [ ] [nested-map-reduce-traversal challenge](https://github.com/josevalim/nested-map-reduce-traversal) ([discussion](https://discourse.haskell.org/t/beautiful-functional-programming/7411), [Haskell solutions](https://github.com/josevalim/nested-map-reduce-traversal/tree/master/haskell), more Haskell solutions: [1](https://gist.github.com/TristanCacqueray/fc8fb5cbba7a0391341e73b80a90b2e8), [2](https://gist.github.com/goldfirere/ed1450872afd324ed656e2807b8dfcc0), [3](https://github.com/danielc777888/toy-problems/blob/main/nested-map-reduce-traversal/Recursion.hs), [4](https://gist.github.com/lazamar/305e8808f8975258f6acea4d20fd3405))
 
 ### Make a CLI game
 
