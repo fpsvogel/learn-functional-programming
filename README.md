@@ -17,7 +17,7 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
   - [Applications](#applications)
   - [More resources](#more-resources)
 - [Elixir](#elixir)
-  - [Books and videos](#books-and-videos)
+  - [Books, courses, videos](#books-courses-videos)
   - [Exercises](#exercises-1)
   - [More resources](#more-resources-1)
 - [FP in Ruby](#fp-in-ruby)
@@ -78,20 +78,23 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 ## Elixir
 
-### Books and videos
+### Books, courses, videos
 
-- [ ] [Elixir: The Documentary](https://www.youtube.com/watch?v=lxYFOM3UJzo)
-- [ ] [The Soul of Erlang & Elixir](https://www.youtube.com/watch?v=JvBT4XBdoUE)
 - [ ] [Elixir and Phoenix after two years](https://nts.strzibny.name/elixir-phoenix-after-two-year) by a Rubyist
+- [ ] [Elixir Newbie podcast](https://www.elixirnewbie.com/podcast)
+- [ ] [The Soul of Erlang & Elixir](https://www.youtube.com/watch?v=JvBT4XBdoUE)
+- [ ] [DockYard Academy curriculum](https://github.com/DockYard-Academy/curriculum)
 - [ ] [Elixir School](https://elixirschool.com/en)
+- [ ] 💲[Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2)
 - [ ] 💲[From Ruby to Elixir](https://pragprog.com/titles/sbelixir/from-ruby-to-elixir)
+- [ ] 💲[Phoenix on Rails](https://phoenixonrails.com/) ($10 discount code [here](https://elixirforum.com/t/phoenix-for-rails-developers/54624/18))
 - [ ] 💲[Elixir in Action](https://www.manning.com/books/elixir-in-action)
 
 ### Exercises
 
 - [ ] [Elixir Koans](https://github.com/elixirkoans/elixir-koans)
 - [ ] [Exercism - Elixir](https://exercism.org/tracks/elixir)
-- [ ] Build a [SpaceTraders](https://spacetraders.io/) CLI client
+- [ ] Build a [SpaceTraders](https://spacetraders.io/) Phoenix app
 
 ### More resources
 
