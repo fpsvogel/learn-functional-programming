@@ -11,15 +11,16 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 ## Table of contents
 
 - [Haskell](#haskell)
-  - [Books/courses](#bookscourses)
+  - [Community](#community)
+  - [Courses, etc.](#courses-etc)
   - [Exercises](#exercises)
   - [Make a CLI game](#make-a-cli-game)
   - [Applications](#applications)
   - [More resources](#more-resources)
 - [Elixir](#elixir)
-  - [Books, courses, videos](#books-courses-videos)
+  - [Courses, etc.](#courses-etc-1)
   - [Exercises](#exercises-1)
-  - [Community](#community)
+  - [Community](#community-1)
   - [More resources](#more-resources-1)
 - [FP in Ruby](#fp-in-ruby)
   - ["Functional lite": prefer immutability and avoid side effects](#functional-lite-prefer-immutability-and-avoid-side-effects)
@@ -27,7 +28,12 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 ## Haskell
 
-### Books/courses
+### Community
+
+- [Functional Programming Discord server](https://discord.com/invite/K6XHBSh)
+- [Haskell - Community page](https://www.haskell.org/community/)
+
+### Courses, etc.
 
 - [x] [Try Haskell](https://tryhaskell.org)
 - [ ] [Haskell MOOC](https://haskell.mooc.fi/) and exercise solutions ([1](https://github.com/tinfoil-knight/haskell-mooc), [2](https://github.com/mikkom/haskell-mooc/tree/master/exercises), [3](https://github.com/dandax123/haskell-mooc-solutions))
@@ -79,7 +85,7 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 ## Elixir
 
-### Books, courses, videos
+### Courses, etc.
 
 - [ ] [Elixir School](https://elixirschool.com/en)
 - [ ] [The Soul of Erlang & Elixir](https://www.youtube.com/watch?v=JvBT4XBdoUE)
