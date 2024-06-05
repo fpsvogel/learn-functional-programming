@@ -16,6 +16,7 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
   - [Exercises](#exercises)
   - [Make a CLI game](#make-a-cli-game)
   - [Applications](#applications)
+  - [Dependent types, type theory](#dependent-types-type-theory)
   - [More resources](#more-resources)
 - [Elixir](#elixir)
   - [Courses, etc.](#courses-etc-1)
@@ -48,7 +49,6 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
 - [ ] 💲[Haskell (almost) Standard Libraries](https://leanpub.com/haskell-stdlibs)
 - [ ] 💲[Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
-- [ ] Look into [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php) for [agda2hs](https://agda.github.io/agda2hs/)
 
 ### Exercises
 
@@ -77,6 +77,16 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 - [ ] [Obelisk](https://github.com/obsidiansystems/obelisk) is a web app framework in which the front end is written in Haskell too.
 - [ ] [IHP](https://ihp.digitallyinduced.com/) or [Yesod](https://www.yesodweb.com/) are more traditional web app frameworks.
 - [ ] [Pandoc](https://github.com/jgm/pandoc) as an example project outside of web dev.
+
+### Dependent types, type theory
+
+- [ ] 💲[Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
+- [ ] [Agda Wiki](https://wiki.portal.chalmers.se/agda/pmwiki.php)
+- [ ] [agda2hs](https://agda.github.io/agda2hs/)
+- [ ] [Learn You an Agda](http://learnyouanagda.liamoc.net/pages/introduction.html)
+- [ ] 💲[Verified Functional Programming in Agda](https://dl.acm.org/doi/book/10.1145/2841316)
+- [ ] [Programming Language Foundations in Agda](https://plfa.github.io/)
+- [ ] 💲[Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/)
 
 ### More resources
 
