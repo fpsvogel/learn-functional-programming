@@ -14,14 +14,15 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
   - [Community](#community)
   - [Courses, etc.](#courses-etc)
   - [Exercises](#exercises)
-  - [Make a CLI game](#make-a-cli-game)
+  - [Project: port my Ruby project to Haskell](#project-port-my-ruby-project-to-haskell)
+  - [Project: make a CLI game](#project-make-a-cli-game)
   - [Applications](#applications)
   - [Dependent types, type theory](#dependent-types-type-theory)
   - [More resources](#more-resources)
 - [Elixir](#elixir)
+  - [Community](#community-1)
   - [Courses, etc.](#courses-etc-1)
   - [Exercises](#exercises-1)
-  - [Community](#community-1)
   - [More resources](#more-resources-1)
 - [FP in Ruby](#fp-in-ruby)
   - ["Functional lite": prefer immutability and avoid side effects](#functional-lite-prefer-immutability-and-avoid-side-effects)
@@ -29,7 +30,11 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 ## Haskell
 
+Because it's as FP as FP gets. I don't expect to build anything impressive in Haskell, but it seems like a good language to learn new ways of thinking just by doing small exercises.
+
 ### Community
+
+Places to ask questions when I get stuck.
 
 - [Functional Programming Discord server](https://discord.com/invite/K6XHBSh)
 - [Haskell - Community page](https://www.haskell.org/community/)
@@ -56,7 +61,13 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 - [ ] [HackerRank - Functional Programming track](https://www.hackerrank.com/domains/fp)
 - [ ] [nested-map-reduce-traversal challenge](https://github.com/josevalim/nested-map-reduce-traversal) ([discussion](https://discourse.haskell.org/t/beautiful-functional-programming/7411), [Haskell solutions](https://github.com/josevalim/nested-map-reduce-traversal/tree/master/haskell), more Haskell solutions: [1](https://gist.github.com/TristanCacqueray/fc8fb5cbba7a0391341e73b80a90b2e8), [2](https://gist.github.com/goldfirere/ed1450872afd324ed656e2807b8dfcc0), [3](https://github.com/danielc777888/toy-problems/blob/main/nested-map-reduce-traversal/Recursion.hs), [4](https://gist.github.com/lazamar/305e8808f8975258f6acea4d20fd3405))
 
-### Make a CLI game
+### Project: port my Ruby project to Haskell
+
+Rewrite Ruby project [Reading](https://github.com/fpsvogel/reading) in Haskell I don't know if I'll actually maintain the Haskell rewrite, or if I'll just use the experience to learn how to improve the Ruby original to be more robust.
+
+### Project: make a CLI game
+
+I probably won't do this after all, but keeping it here just in case.
 
 - **Guides:**
   - [ ] <http://jackkelly.name/blog/archives/2022/05/28/text-mode_games_as_first_haskell_projects/index.html>
@@ -74,11 +85,15 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 ### Applications
 
+A few real-world things you can do with with Haskell.
+
 - [ ] [Obelisk](https://github.com/obsidiansystems/obelisk) is a web app framework in which the front end is written in Haskell too.
 - [ ] [IHP](https://ihp.digitallyinduced.com/) or [Yesod](https://www.yesodweb.com/) are more traditional web app frameworks.
 - [ ] [Pandoc](https://github.com/jgm/pandoc) as an example project outside of web dev.
 
 ### Dependent types, type theory
+
+I probably won't get into this, but I'm saving these just in case.
 
 - [ ] 💲[Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
 - [ ] [Agda Wiki](https://wiki.portal.chalmers.se/agda/pmwiki.php)
@@ -96,10 +111,15 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 ## Elixir
 
+Because it's a different take on FP: less pure and with unique advantages offered by the BEAM platform. (But these advantages are not yet completely realized, i.e. it's a work in progress, according to the talk [The Soul of Erlang & Elixir](https://www.youtube.com/watch?v=JvBT4XBdoUE).)
+
+### Community
+
+- [Elixir Status](https://elixirstatus.com/)
+
 ### Courses, etc.
 
 - [ ] [Elixir School](https://elixirschool.com/en)
-- [ ] [The Soul of Erlang & Elixir](https://www.youtube.com/watch?v=JvBT4XBdoUE)
 - [ ] [DockYard Academy curriculum](https://github.com/DockYard-Academy/curriculum)
 - [ ] 💲[Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2)
 - [ ] 💲[From Ruby to Elixir](https://pragprog.com/titles/sbelixir/from-ruby-to-elixir)
@@ -112,15 +132,13 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 - [ ] [Exercism - Elixir](https://exercism.org/tracks/elixir)
 - [ ] Build a [SpaceTraders](https://spacetraders.io/) Phoenix app
 
-### Community
-
-- [ ] [Elixir Status](https://elixirstatus.com/)
-
 ### More resources
 
 - ["Learning" page on the Elixir site](https://elixir-lang.org/learning.html)
 
 ## FP in Ruby
+
+Because I enjoy Ruby and the whole point of learning FP is not to switch to some other stack, but to become a better programmer in any language.
 
 ### "Functional lite": prefer immutability and avoid side effects
 
