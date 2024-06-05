@@ -108,6 +108,7 @@ I probably won't get into this, but I'm saving these just in case.
 - [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
 - ["Resources" section in The Haskell Guide](https://haskell-docs.netlify.app/resources/resources/)
 - [Haskell Books](https://www.extrema.is/articles/haskell-books)
+- [Haskell - Documentation (books, courses, etc.)](https://www.haskell.org/documentation/)
 
 ## Elixir
 
