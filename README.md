@@ -12,6 +12,7 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 
 - [Haskell](#haskell)
   - [Community](#community)
+  - [Reference](#reference)
   - [Courses, etc.](#courses-etc)
   - [Exercises](#exercises)
   - [Project: port my Ruby project to Haskell](#project-port-my-ruby-project-to-haskell)
@@ -38,6 +39,10 @@ Places to ask questions when I get stuck.
 
 - [Functional Programming Discord server](https://discord.com/invite/K6XHBSh)
 - [Haskell - Community page](https://www.haskell.org/community/)
+
+### Reference
+
+- [Hoogle](https://hoogle.haskell.org/). Since its search uses a query param, you can add a search keyword to your browser to let you quickly search from the address bar, for example `hs partition` would take you to [https://hoogle.haskell.org/?hoogle=partition](https://hoogle.haskell.org/?hoogle=partition)
 
 ### Courses, etc.
 
