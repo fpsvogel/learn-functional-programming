@@ -85,6 +85,7 @@ Places to ask questions when I get stuck.
     - <https://github.com/rklyne/haskell-text-adventure>
     - <https://github.com/jensdanb/Pong2>
     - <https://github.com/jasonstolaruk/CurryMUD>
+  - See also the Haskell Wiki pages [Game Development](https://wiki.haskell.org/Game_Development) and [Applications and libraries/Games](https://wiki.haskell.org/Applications_and_libraries/Games)
 
 ### Dependent types, type theory
 
