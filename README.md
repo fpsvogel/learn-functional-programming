@@ -89,6 +89,7 @@ Places to ask questions when I get stuck.
 
 I probably won't get into this, but I'm saving these just in case.
 
+- [ ] [Liquid Haskell](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
 - [ ] 💲[Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
 - [ ] [Agda Wiki](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 - [ ] [agda2hs](https://agda.github.io/agda2hs/)
