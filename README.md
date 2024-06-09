@@ -58,6 +58,7 @@ Places to ask questions when I get stuck.
 - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
 - [ ] 💲[Haskell (almost) Standard Libraries](https://leanpub.com/haskell-stdlibs)
 - [ ] 💲[Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
+- [ ] Figure out which extensions to use for records ([a starting point](https://www.reddit.com/r/haskell/comments/x4ot3e/record_update_in_2022/))
 
 ### Exercises
 
