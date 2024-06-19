@@ -72,7 +72,7 @@ Places to ask questions when I get stuck.
 ### Projects
 
 - Rewrite my Ruby project [Reading](https://github.com/fpsvogel/reading) in Haskell. I don't know if I'll actually maintain the Haskell rewrite, or if I'll just use the experience to learn how to make the Ruby original more robust.
-- Build a web app with the [Obelisk](https://github.com/obsidiansystems/obelisk) framework, which allows the front end to be written in Haskell too.
+- Build a web app with the [Obelisk](https://github.com/obsidiansystems/obelisk) framework, which allows the front end to be written in Haskell too. … or just use [htmx](https://htmx.org/) per the recommendation at the bottom of [this retrospective on client-side Haskell frameworks](https://chrisdone.com/posts/clientside-programming-haskell/).
 - Make a CLI game. I probably won't do this after all, but keeping it here just in case.
   - Guides:
     - [ ] <http://jackkelly.name/blog/archives/2022/05/28/text-mode_games_as_first_haskell_projects/index.html>
