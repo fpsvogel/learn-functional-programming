@@ -15,13 +15,14 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
   - [Reference](#reference)
   - [Courses, etc.](#courses-etc)
   - [Exercises](#exercises)
-  - [Projects](#projects)
+  - [Project](#project)
   - [Dependent types, type theory](#dependent-types-type-theory)
   - [More resources](#more-resources)
 - [Elixir](#elixir)
   - [Community](#community-1)
   - [Courses, etc.](#courses-etc-1)
   - [Exercises](#exercises-1)
+  - [Project](#project-1)
   - [More resources](#more-resources-1)
 - [FP in Ruby](#fp-in-ruby)
   - ["Functional lite": prefer immutability and avoid side effects](#functional-lite-prefer-immutability-and-avoid-side-effects)
@@ -69,25 +70,24 @@ Places to ask questions when I get stuck.
 - [ ] [nested-map-reduce-traversal challenge](https://github.com/josevalim/nested-map-reduce-traversal) ([discussion](https://discourse.haskell.org/t/beautiful-functional-programming/7411), [Haskell solutions](https://github.com/josevalim/nested-map-reduce-traversal/tree/master/haskell), more Haskell solutions: [1](https://gist.github.com/TristanCacqueray/fc8fb5cbba7a0391341e73b80a90b2e8), [2](https://gist.github.com/goldfirere/ed1450872afd324ed656e2807b8dfcc0), [3](https://github.com/danielc777888/toy-problems/blob/main/nested-map-reduce-traversal/Recursion.hs), [4](https://gist.github.com/lazamar/305e8808f8975258f6acea4d20fd3405))
 - [ ] [snake-fury](https://github.com/lsmor/snake-fury)
 
-### Projects
+### Project
 
-- Rewrite my Ruby project [Reading](https://github.com/fpsvogel/reading) in Haskell. I don't know if I'll actually maintain the Haskell rewrite, or if I'll just use the experience to learn how to make the Ruby original more robust.
-- Build a web app with the [Obelisk](https://github.com/obsidiansystems/obelisk) framework, which allows the front end to be written in Haskell too. … or just use [htmx](https://htmx.org/) per the recommendation at the bottom of [this retrospective on client-side Haskell frameworks](https://chrisdone.com/posts/clientside-programming-haskell/).
-- Make a CLI game. I probably won't do this after all, but keeping it here just in case.
-  - Guides:
-    - [ ] <http://jackkelly.name/blog/archives/2022/05/28/text-mode_games_as_first_haskell_projects/index.html>
-    - [ ] <https://medium.com/codex/developing-a-video-game-in-haskell-e8259050e4dc>
-    - [ ] <https://whatthefunctional.wordpress.com/2018/03/07/making-a-text-adventure-in-haskell-part-1/#comments>
-    - [ ] <https://www.youtube.com/watch?app=desktop&v=WLYN7sUDm7Y>
-    - [ ] <https://haskell-via-sokoban.nomeata.de/>
-  - Examples:
-    - "Haskell Program to Play the Blackjack Card Game" in [Haskell Tutorial and Cookbook](https://markwatson.com/opencontent/haskell-cookbook.pdf)
-    - <https://codereview.stackexchange.com/questions/159069/haskell-text-adventure-game>
-    - <https://github.com/emanuelfakh/Game_Haskell>
-    - <https://github.com/rklyne/haskell-text-adventure>
-    - <https://github.com/jensdanb/Pong2>
-    - <https://github.com/jasonstolaruk/CurryMUD>
-  - See also the Haskell Wiki pages [Game Development](https://wiki.haskell.org/Game_Development) and [Applications and libraries/Games](https://wiki.haskell.org/Applications_and_libraries/Games)
+Make a text-based game.
+
+- Guides:
+  - [ ] <http://jackkelly.name/blog/archives/2022/05/28/text-mode_games_as_first_haskell_projects/index.html>
+  - [ ] <https://medium.com/codex/developing-a-video-game-in-haskell-e8259050e4dc>
+  - [ ] <https://whatthefunctional.wordpress.com/2018/03/07/making-a-text-adventure-in-haskell-part-1/#comments>
+  - [ ] <https://www.youtube.com/watch?app=desktop&v=WLYN7sUDm7Y>
+  - [ ] <https://haskell-via-sokoban.nomeata.de/>
+- Examples:
+  - "Haskell Program to Play the Blackjack Card Game" in [Haskell Tutorial and Cookbook](https://markwatson.com/opencontent/haskell-cookbook.pdf)
+  - <https://codereview.stackexchange.com/questions/159069/haskell-text-adventure-game>
+  - <https://github.com/emanuelfakh/Game_Haskell>
+  - <https://github.com/rklyne/haskell-text-adventure>
+  - <https://github.com/jensdanb/Pong2>
+  - <https://github.com/jasonstolaruk/CurryMUD>
+- See also the Haskell Wiki pages [Game Development](https://wiki.haskell.org/Game_Development) and [Applications and libraries/Games](https://wiki.haskell.org/Applications_and_libraries/Games)
 
 ### Dependent types, type theory
 
@@ -130,7 +130,10 @@ Because it's a different take on FP: less pure and with unique advantages offere
 
 - [ ] [Elixir Koans](https://github.com/elixirkoans/elixir-koans)
 - [ ] [Exercism - Elixir](https://exercism.org/tracks/elixir)
-- [ ] Build a [SpaceTraders](https://spacetraders.io/) Phoenix app
+
+### Project
+
+Build a [SpaceTraders](https://spacetraders.io/) Phoenix app
 
 ### More resources
 
