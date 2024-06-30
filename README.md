@@ -47,6 +47,7 @@ Places to ask questions when I get stuck.
 
 - [x] [Try Haskell](https://tryhaskell.org)
 - [ ] [Haskell MOOC](https://haskell.mooc.fi/) and exercise solutions ([1](https://github.com/tinfoil-knight/haskell-mooc), [2](https://github.com/mikkom/haskell-mooc/tree/master/exercises), [3](https://github.com/dandax123/haskell-mooc-solutions))
+- [ ] [Well-Typed - Introduction to Haskell](https://teaching.well-typed.com/intro/)
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
 - [ ] [System F - Functional Programming Course](https://github.com/system-f/fp-course#progression) and [exercise solutions](https://github.com/tonymorris/fp-course/tree/master/src/Course)
 - [ ] [What I Wish I Knew When Learning Haskell](https://github.com/sdiehl/wiwinwlh/blob/master/tutorial.md)
