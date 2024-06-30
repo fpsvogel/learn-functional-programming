@@ -53,7 +53,6 @@ Places to ask questions when I get stuck.
 - [ ] [Haskell for Imperative Programmers](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV) (videos)
 - [ ] [Implement With Types, Not Your Brain!](https://reasonablypolymorphic.com/blog/typeholes/)
 - [ ] 💲[Soar with Haskell](https://www.amazon.com/Soar-Haskell-beginners-functional-programming/dp/1805128450)
-- [ ] 💲[Haskell Programming From First Principles](https://haskellbook.com/)
 - [ ] [thoughtbot - Maybe Haskell: Programming without Null](https://github.com/thoughtbot/maybe_haskell)
 - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
 - [ ] [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
