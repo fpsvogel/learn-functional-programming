@@ -61,6 +61,12 @@ Places to ask questions when I get stuck.
 - [ ] 💲[Haskell (almost) Standard Libraries](https://leanpub.com/haskell-stdlibs)
 - [ ] 💲[Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
 - [ ] Figure out which extensions to use for records ([a starting point](https://www.reddit.com/r/haskell/comments/x4ot3e/record_update_in_2022/))
+<!-- MAYBE:
+http://jackkelly.name/blog/archives/2020/04/03/the_power_of_tiny_dsls
+http://blog.sigfpe.com/2007/11/io-monad-for-people-who-simply-dont.html
+https://www.google.com/search?q=haskell named field puns
+https://github.com/polysemy-research/polysemy
+-->
 
 ### Exercises
 
