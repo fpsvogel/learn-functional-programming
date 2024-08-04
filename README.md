@@ -1,4 +1,4 @@
-<!-- omit in toc -->
+Oi<!-- omit in toc -->
 # Learn functional programming: a Rubyist's list
 
 Hi! I'm on a journey to learn functional programming (FP). Won't you join me?
@@ -46,7 +46,7 @@ Places to ask questions when I get stuck.
 ### Courses, etc.
 
 - [x] [Try Haskell](https://tryhaskell.org)
-- [ ] [Haskell MOOC](https://haskell.mooc.fi/) and exercise solutions ([1](https://github.com/tinfoil-knight/haskell-mooc), [2](https://github.com/mikkom/haskell-mooc/tree/master/exercises), [3](https://github.com/dandax123/haskell-mooc-solutions), [mine [WIP]](https://github.com/fpsvogel/haskell-mooc/tree/master/exercises))
+- [ ] [Haskell MOOC](https://haskell.mooc.fi/) and exercise solutions ([1](https://github.com/tinfoil-knight/haskell-mooc), [2](https://github.com/mikkom/haskell-mooc/tree/master/exercises), [3](https://github.com/dandax123/haskell-mooc-solutions), [4](https://github.com/bobbrahms/haskell-mooc/tree/master/exercises), [5](https://github.com/Qualia91/haskell-mooc/tree/master/exercises), [6](https://github.com/davide-butera/haskell-mooc/tree/master/exercises), [7](https://github.com/lucastarche/haskell-mooc/tree/master/exercises), [8](https://github.com/shyba/haskell-mooc/tree/master/exercises), [mine [WIP]](https://github.com/fpsvogel/haskell-mooc/tree/master/exercises))
 - [ ] [Well-Typed - Introduction to Haskell](https://teaching.well-typed.com/intro/)
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
 - [ ] [System F - Functional Programming Course](https://github.com/system-f/fp-course#progression) and [exercise solutions](https://github.com/tonymorris/fp-course/tree/master/src/Course)
