@@ -1,4 +1,4 @@
-Oi<!-- omit in toc -->
+<!-- omit in toc -->
 # Learn functional programming: a Rubyist's list
 
 Hi! I'm on a journey to learn functional programming (FP). Won't you join me?
@@ -62,6 +62,7 @@ Places to ask questions when I get stuck.
 - [ ] 💲[Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
 - [ ] Figure out which extensions to use for records ([a starting point](https://www.reddit.com/r/haskell/comments/x4ot3e/record_update_in_2022/))
 <!-- MAYBE:
+https://tech.fpcomplete.com/blog/2017/09/all-about-strictness/
 http://jackkelly.name/blog/archives/2020/04/03/the_power_of_tiny_dsls
 http://blog.sigfpe.com/2007/11/io-monad-for-people-who-simply-dont.html
 https://www.google.com/search?q=haskell named field puns
