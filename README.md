@@ -61,7 +61,11 @@ Places to ask questions when I get stuck.
 - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
 - [ ] 💲[Haskell (almost) Standard Libraries](https://leanpub.com/haskell-stdlibs)
 - [ ] 💲[Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
-- [ ] Figure out which extensions to use for records ([a starting point](https://www.reddit.com/r/haskell/comments/x4ot3e/record_update_in_2022/))
+- [ ] Explore language extensions
+  - [ ] [GHC User's Guide - Language extensions](https://downloads.haskell.org/ghc/latest/docs/users_guide/exts.html) (current)
+  - [ ] [A Guide to GHC's Extensions (2018)](https://limperg.de/ghc-extensions/)
+  - [ ] [An Opinionated Guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/#any-flavor-you-like)
+  - [x] For records: [my findings](https://github.com/fpsvogel/haskell-mooc/blob/141495e219cb8c48564de7da49ddb55d45830daa/exercises/Set5a.hs#L6-L14) plus [a note on a false compiler warning](https://github.com/fpsvogel/haskell-mooc/blob/141495e219cb8c48564de7da49ddb55d45830daa/exercises/Set5a.hs#L99-L107),
 
 ### Exercises
 
