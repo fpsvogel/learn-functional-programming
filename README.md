@@ -16,6 +16,7 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
   - [Courses, etc.](#courses-etc)
   - [Exercises](#exercises)
   - [Projects](#projects)
+  - [Articles](#articles)
   - [Dependent types, type theory](#dependent-types-type-theory)
   - [More resources](#more-resources)
 - [Elixir](#elixir)
@@ -61,13 +62,6 @@ Places to ask questions when I get stuck.
 - [ ] 💲[Haskell (almost) Standard Libraries](https://leanpub.com/haskell-stdlibs)
 - [ ] 💲[Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
 - [ ] Figure out which extensions to use for records ([a starting point](https://www.reddit.com/r/haskell/comments/x4ot3e/record_update_in_2022/))
-<!-- MAYBE:
-https://tech.fpcomplete.com/blog/2017/09/all-about-strictness/
-http://jackkelly.name/blog/archives/2020/04/03/the_power_of_tiny_dsls
-http://blog.sigfpe.com/2007/11/io-monad-for-people-who-simply-dont.html
-https://www.google.com/search?q=haskell named field puns
-https://github.com/polysemy-research/polysemy
--->
 
 ### Exercises
 
@@ -96,6 +90,13 @@ https://github.com/polysemy-research/polysemy
     - <https://github.com/jasonstolaruk/CurryMUD>
     - <https://github.com/Qqwy/haskell-snek>
   - See also the Haskell Wiki pages [Game Development](https://wiki.haskell.org/Game_Development) and [Applications and libraries/Games](https://wiki.haskell.org/Applications_and_libraries/Games)
+
+### Articles
+
+- [ ] [The Power of Tiny DSLs](http://jackkelly.name/blog/archives/2020/04/03/the_power_of_tiny_dsls)
+- [ ] [The IO Monad for People who Simply Don't Care](http://blog.sigfpe.com/2007/11/io-monad-for-people-who-simply-dont.html)
+- [ ] [All About Strictness](https://tech.fpcomplete.com/blog/2017/09/all-about-strictness/)
+- [ ] [Make invalid states unrepresentable](http://h2.jaguarpaw.co.uk/posts/make-invalid-laziness-unrepresentable/) and [related discussion](https://www.reddit.com/r/haskell/comments/zz87px/comment/j2ic1lk/)
 
 ### Dependent types, type theory
 
