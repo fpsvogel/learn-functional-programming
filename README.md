@@ -71,6 +71,7 @@ Places to ask questions when I get stuck.
 
 - [ ] [Exercism - Haskell](https://exercism.org/tracks/haskell)
 - [ ] [hw-koans](https://github.com/haskell-works/hw-koans)
+- [ ] [Advent of Code](https://adventofcode.com) and Haskell solutions: [1](https://github.com/RossPaterson/advent-of-code), [2](https://github.com/Javran/advent-of-code/tree/master/src/Javran/AdventOfCode), [3](https://github.com/yarrick/advent), [4](https://github.com/Prillan/adventofcode-solutions), [5](https://github.com/Sheinxy/Advent-Of-Code), [6](https://github.com/slotThe/advent)
 - [ ] [HackerRank - Functional Programming track](https://www.hackerrank.com/domains/fp)
 - [ ] [nested-map-reduce-traversal challenge](https://github.com/josevalim/nested-map-reduce-traversal) ([discussion](https://discourse.haskell.org/t/beautiful-functional-programming/7411), [Haskell solutions](https://github.com/josevalim/nested-map-reduce-traversal/tree/master/haskell), more Haskell solutions: [1](https://gist.github.com/TristanCacqueray/fc8fb5cbba7a0391341e73b80a90b2e8), [2](https://gist.github.com/goldfirere/ed1450872afd324ed656e2807b8dfcc0), [3](https://github.com/danielc777888/toy-problems/blob/main/nested-map-reduce-traversal/Recursion.hs), [4](https://gist.github.com/lazamar/305e8808f8975258f6acea4d20fd3405))
 - [ ] [snake-fury](https://github.com/lsmor/snake-fury)
