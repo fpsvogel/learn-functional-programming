@@ -25,9 +25,9 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
   - [Exercises](#exercises-1)
   - [Project](#project)
   - [More resources](#more-resources-1)
-- [FP in Ruby](#fp-in-ruby)
-  - ["Functional lite": prefer immutability and avoid side effects](#functional-lite-prefer-immutability-and-avoid-side-effects)
-  - [Hanami/dry-rb ecosystem](#hanamidry-rb-ecosystem)
+- [FP in non-FP languages](#fp-in-non-fp-languages)
+  - [TypeScript](#typescript)
+  - [Ruby](#ruby)
 
 ## Haskell
 
@@ -155,19 +155,22 @@ Because it's a different take on FP: less pure and with unique advantages offere
 
 - ["Learning" page on the Elixir site](https://elixir-lang.org/learning.html)
 
-## FP in Ruby
+## FP in non-FP languages
 
-Because I enjoy Ruby and the whole point of learning FP is not to switch to some other stack, but to become a better programmer in any language.
+Because my goal in learning FP is not to switch to a different stack, but to become a better programmer in the languages that I use now.
 
-### "Functional lite": prefer immutability and avoid side effects
+### TypeScript
 
-- [Avoid Mutation — Functional Style in Ruby](https://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/)
-- [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
-- Sandi Metz ([source](https://dev.to/sandimetz/comment/255m)): "I only have a small bit of experience with functional languages, so I don't get to have much of an opinion. I can say, however, that immutability and no side-effects are great ideas, and that I've borrowed them for my OO. My initial goal for every new object I write is that it not change, and that it not have side effects. This obviously can't suit every object, but I've been pleasantly surprised about how much can be done under these constraints, and how much the constraints simplify code."
-- Avdi Grimm ([source](https://web.archive.org/web/20201009182546/https://github.com/yct21/observatory/issues/93)): "Functional programming ideas about preferring immutability and isolating interactions with the outside world can help us avoid the worst pitfalls of procedural and object-oriented coding. But trying to program in a *'fully FP'* style in Ruby can be like paddling a kayak with a canoe paddle. Upstream. […] Your best bet for effective development is to learn to 'code with the grain' [of the language you're using]. And when you get right down to it, Ruby's grain is object-oriented."
+- FP libraries: [Purify](https://gigobyte.github.io/purify/), [Effect](https://effect.website/), [fp-ts](https://gcanti.github.io/fp-ts/)
 
-### Hanami/dry-rb ecosystem
+### Ruby
 
-- [This blog series by Tim Riley](https://www.icelab.com.au/notes/conversational-rom-rb-part-2-types-associations-and-update-commands) is a good introduction. The linked article is the last one; scroll to the bottom to see a list of all the posts in the series.
-- Learn the [Hanami](https://hanamirb.org/) framework with [Hanami Mastery](https://hanamimastery.com) and example apps found in GitHub repo searches ([1](https://github.com/search?q=hanami+example+pushed%3A%3E2022-01-01&type=repositories), [2](https://github.com/search?q=hanami+app+pushed%3A%3E2022-01-01&type=repositories), [3](https://github.com/search?q=hanami+application+pushed%3A%3E2022-01-01&type=repositories), [4](https://github.com/search?q=hanami+software+pushed%3A%3E2022-01-01&type=repositories)).
-- Explore [dry-rb](https://dry-rb.org/) gems.
+- "Functional lite": prefer immutability and avoid side effects
+  - [Avoid Mutation — Functional Style in Ruby](https://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/)
+  - [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
+  - Sandi Metz ([source](https://dev.to/sandimetz/comment/255m)): "I only have a small bit of experience with functional languages, so I don't get to have much of an opinion. I can say, however, that immutability and no side-effects are great ideas, and that I've borrowed them for my OO. My initial goal for every new object I write is that it not change, and that it not have side effects. This obviously can't suit every object, but I've been pleasantly surprised about how much can be done under these constraints, and how much the constraints simplify code."
+  - Avdi Grimm ([source](https://web.archive.org/web/20201009182546/https://github.com/yct21/observatory/issues/93)): "Functional programming ideas about preferring immutability and isolating interactions with the outside world can help us avoid the worst pitfalls of procedural and object-oriented coding. But trying to program in a *'fully FP'* style in Ruby can be like paddling a kayak with a canoe paddle. Upstream. […] Your best bet for effective development is to learn to 'code with the grain' [of the language you're using]. And when you get right down to it, Ruby's grain is object-oriented."
+- Hanami/dry-rb ecosystem
+  - [This blog series by Tim Riley](https://www.icelab.com.au/notes/conversational-rom-rb-part-2-types-associations-and-update-commands) is a good introduction. The linked article is the last one; scroll to the bottom to see a list of all the posts in the series.
+  - Learn the [Hanami](https://hanamirb.org/) framework with [Hanami Mastery](https://hanamimastery.com) and example apps found in GitHub repo searches ([1](https://github.com/search?q=hanami+example+pushed%3A%3E2022-01-01&type=repositories), [2](https://github.com/search?q=hanami+app+pushed%3A%3E2022-01-01&type=repositories), [3](https://github.com/search?q=hanami+application+pushed%3A%3E2022-01-01&type=repositories), [4](https://github.com/search?q=hanami+software+pushed%3A%3E2022-01-01&type=repositories)).
+  - Explore [dry-rb](https://dry-rb.org/) gems.
