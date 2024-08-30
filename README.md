@@ -162,6 +162,8 @@ Because my goal in learning FP is not to switch to a different stack, but to bec
 ### TypeScript
 
 - FP libraries: [Purify](https://gigobyte.github.io/purify/), [Effect](https://effect.website/), [fp-ts](https://gcanti.github.io/fp-ts/)
+- [TypeScript for Functional Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html)
+- [How to Write TypeScript Like a Haskeller](https://serokell.io/blog/typescript-for-haskellers)
 
 ### Ruby
 
