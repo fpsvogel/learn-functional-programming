@@ -100,6 +100,7 @@ Places to ask questions when I get stuck.
 ### Articles
 
 - [ ] [Haskell mini-patterns handbook](https://kowainik.github.io/posts/haskell-mini-patterns)
+- [ ] [Competitive programming in Haskell](https://byorgey.github.io/blog/). See also [CPHaskell](https://github.com/anurudhp/CPHaskell).
 - [ ] [The Power of Tiny DSLs](http://jackkelly.name/blog/archives/2020/04/03/the_power_of_tiny_dsls)
 - [ ] [The IO Monad for People who Simply Don't Care](http://blog.sigfpe.com/2007/11/io-monad-for-people-who-simply-dont.html)
 - [ ] [All About Strictness](https://tech.fpcomplete.com/blog/2017/09/all-about-strictness/)
