@@ -65,7 +65,14 @@ Places to ask questions when I get stuck.
   - [ ] [GHC User's Guide - Language extensions](https://downloads.haskell.org/ghc/latest/docs/users_guide/exts.html) (current)
   - [ ] [A Guide to GHC's Extensions (2018)](https://limperg.de/ghc-extensions/)
   - [ ] [An Opinionated Guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/#any-flavor-you-like)
-  - [x] For records: [my findings](https://github.com/fpsvogel/haskell-mooc/blob/141495e219cb8c48564de7da49ddb55d45830daa/exercises/Set5a.hs#L6-L14) plus [a note on a false compiler warning](https://github.com/fpsvogel/haskell-mooc/blob/141495e219cb8c48564de7da49ddb55d45830daa/exercises/Set5a.hs#L99-L107),
+  - [x] For records: [my findings](https://github.com/fpsvogel/haskell-mooc/blob/141495e219cb8c48564de7da49ddb55d45830daa/exercises/Set5a.hs#L6-L14) plus [a note on a false compiler warning](https://github.com/fpsvogel/haskell-mooc/blob/141495e219cb8c48564de7da49ddb55d45830daa/exercises/Set5a.hs#L99-L107)
+- [ ] Explore performance optimization
+  - [ ] [StackOverflow answer on intermediate compiler output](https://stackoverflow.com/a/59338472)
+  - [ ] [Doc on debugging the compiler](https://downloads.haskell.org/ghc/latest/docs/users_guide/debugging.html#dumping-out-compiler-intermediate-structures)
+  - [ ] [Doc on code optimization](https://downloads.haskell.org/ghc/latest/docs/users_guide/using-optimisation.html)
+  - [ ] [Haskell Wiki - Performance/GHC](https://wiki.haskell.org/Performance/GHC)
+  - [ ] [FP Complete - Performance section in the Applied Haskell Syllabus](https://tech.fpcomplete.com/haskell/syllabus/#performance)
+  - [ ] "Core" and "Asm" views in [Haskell Playground](https://play.haskell.org/saved/w9UU3xLx), plus more options in [godbolt](https://godbolt.org/)
 
 ### Exercises
 
