@@ -58,6 +58,8 @@ Places to ask questions when I get stuck.
 - [ ] [thoughtbot - Maybe Haskell: Programming without Null](https://github.com/thoughtbot/maybe_haskell)
 - [ ] [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
 - [ ] [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
+- [ ] 💲[Thinking with Types](https://leanpub.com/thinking-with-types)
+- [ ] 💲[Algebra-Driven Design](https://leanpub.com/algebra-driven-design)
 - [ ] 💲[Effective Haskell](https://pragprog.com/titles/rshaskell/effective-haskell/)
 - [ ] 💲[Haskell (almost) Standard Libraries](https://leanpub.com/haskell-stdlibs)
 - [ ] 💲[Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
@@ -118,6 +120,7 @@ Places to ask questions when I get stuck.
 I probably won't get into this, but I'm saving these just in case.
 
 - [ ] [Liquid Haskell](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
+- [ ] [Idris docs](https://idris2.readthedocs.io/en/latest/tutorial/index.html)
 - [ ] 💲[Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
 - [ ] [Agda Wiki](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 - [ ] [agda2hs](https://agda.github.io/agda2hs/)
