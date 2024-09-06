@@ -10,32 +10,65 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
 <!-- omit in toc -->
 ## Table of contents
 
-- [Haskell](#haskell)
+- [Roc](#roc)
   - [Community](#community)
+  - [Learning](#learning)
   - [Reference](#reference)
-  - [Courses, etc.](#courses-etc)
   - [Exercises](#exercises)
   - [Projects](#projects)
+- [Haskell](#haskell)
+  - [Community](#community-1)
+  - [Reference](#reference-1)
+  - [Courses, etc.](#courses-etc)
+  - [Exercises](#exercises-1)
+  - [Projects](#projects-1)
   - [Articles](#articles)
   - [Dependent types, type theory](#dependent-types-type-theory)
   - [More resources](#more-resources)
 - [Elixir](#elixir)
-  - [Community](#community-1)
+  - [Community](#community-2)
   - [Courses, etc.](#courses-etc-1)
-  - [Exercises](#exercises-1)
-  - [Project](#project)
+  - [Exercises](#exercises-2)
+  - [Projects](#projects-2)
   - [More resources](#more-resources-1)
 - [FP in non-FP languages](#fp-in-non-fp-languages)
   - [TypeScript](#typescript)
   - [Ruby](#ruby)
 
-## Haskell
+## Roc
 
-Because it's as FP as FP gets. I don't expect to build anything impressive in Haskell, but it seems like a good language to learn new ways of thinking just by doing small exercises.
+I originally started with Haskell, but it was a bit of a slog. Roc is smaller and tries to incorporate some strengths of dynamic languages, so it looks like an easier place for me to start.
 
 ### Community
 
-Places to ask questions when I get stuck.
+- [Roc Zulip Chat](https://roc.zulipchat.com/)
+
+### Learning
+
+- [x] [Official tutorial](https://www.roc-lang.org/tutorial)
+- [x] [Introduction to Roc (video)](https://www.youtube.com/watch?v=7R204VUlzGc)
+- [ ] [Abilities](https://www.roc-lang.org/abilities)
+
+### Reference
+
+- [Examples](https://www.roc-lang.org/examples)
+- Docs: [builtins](https://www.roc-lang.org/builtins), [basic-cli](https://www.roc-lang.org/packages/basic-cli/0.15.0)
+- [Roc packages](https://hasnep.github.io/roc-packages/)
+
+### Exercises
+
+- [ ] [Exercism - Roc](https://exercism.org/tracks/roc)
+- [ ] [Advent of Code](https://adventofcode.com) with [Roc template](https://github.com/lukewilliamboswell/aoc-template) and [Roc solutions for 2023](https://github.com/scott2000/advent-of-code-2023)
+
+### Projects
+
+- [ ] Make a text-based game.
+
+## Haskell
+
+Because it's often recommended for learning FP in its purest form.
+
+### Community
 
 - [Functional Programming Discord server](https://discord.com/invite/K6XHBSh)
 - [Haskell - Community page](https://www.haskell.org/community/)
@@ -47,7 +80,7 @@ Places to ask questions when I get stuck.
 ### Courses, etc.
 
 - [x] [Try Haskell](https://tryhaskell.org)
-- [ ] [Haskell MOOC](https://haskell.mooc.fi/) and exercise solutions ([1](https://github.com/tinfoil-knight/haskell-mooc), [2](https://github.com/mikkom/haskell-mooc/tree/master/exercises), [3](https://github.com/dandax123/haskell-mooc-solutions), [4](https://github.com/bobbrahms/haskell-mooc/tree/master/exercises), [5](https://github.com/Qualia91/haskell-mooc/tree/master/exercises), [6](https://github.com/davide-butera/haskell-mooc/tree/master/exercises), [7](https://github.com/lucastarche/haskell-mooc/tree/master/exercises), [8](https://github.com/shyba/haskell-mooc/tree/master/exercises), [mine [WIP]](https://github.com/fpsvogel/haskell-mooc/tree/master/exercises))
+- [ ] [Haskell MOOC](https://haskell.mooc.fi/) and exercise solutions ([1](https://github.com/tinfoil-knight/haskell-mooc), [2](https://github.com/mikkom/haskell-mooc/tree/master/exercises), [3](https://github.com/dandax123/haskell-mooc-solutions), [4](https://github.com/bobbrahms/haskell-mooc/tree/master/exercises), [5](https://github.com/Qualia91/haskell-mooc/tree/master/exercises), [6](https://github.com/davide-butera/haskell-mooc/tree/master/exercises), [7](https://github.com/lucastarche/haskell-mooc/tree/master/exercises), [8](https://github.com/shyba/haskell-mooc/tree/master/exercises))
 - [ ] [Well-Typed - Introduction to Haskell](https://teaching.well-typed.com/intro/)
 - [ ] [Wikibooks - Haskell](https://en.wikibooks.org/wiki/Haskell)
 - [ ] [System F - Functional Programming Course](https://github.com/system-f/fp-course#progression) and [exercise solutions](https://github.com/tonymorris/fp-course/tree/master/src/Course)
@@ -88,7 +121,6 @@ Places to ask questions when I get stuck.
 
 ### Projects
 
-- [ ] Rewrite my Ruby gem [Reading](https://github.com/fpsvogel/reading) in Haskell. I doubt that I'll actually maintain the Haskell rewrite, but at least I'll use the experience to learn how to make the Ruby original more robust.
 - [ ] Make a text-based game.
   - Guides:
     - [ ] <http://jackkelly.name/blog/archives/2022/05/28/text-mode_games_as_first_haskell_projects/index.html>
@@ -158,7 +190,7 @@ Because it's a different take on FP: less pure and with unique advantages offere
 - [ ] [Elixir Koans](https://github.com/elixirkoans/elixir-koans)
 - [ ] [Exercism - Elixir](https://exercism.org/tracks/elixir)
 
-### Project
+### Projects
 
 - [ ] Build a [SpaceTraders](https://spacetraders.io/) Phoenix app
 
