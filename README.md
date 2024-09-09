@@ -5,8 +5,6 @@ Hi! I'm on a journey to learn functional programming (FP). Won't you join me?
 
 If you notice any broken links here, please let me know by [opening an issue](https://github.com/fpsvogel/learn-functional-programming/issues/new).
 
-This is not meant to be an exhaustive list of FP resources, only my path to learning some FP and applying it to Ruby.
-
 <!-- omit in toc -->
 ## Table of contents
 
