@@ -14,19 +14,15 @@ If you notice any broken links here, please let me know by [opening an issue](ht
   - [Reference](#reference)
   - [Exercises](#exercises)
   - [Projects](#projects)
-- [Elixir](#elixir)
-  - [Community](#community-1)
-  - [Courses, etc.](#courses-etc)
-  - [Exercises](#exercises-1)
-  - [Projects](#projects-1)
-  - [More resources](#more-resources)
 - [FP in non-FP languages](#fp-in-non-fp-languages)
   - [TypeScript](#typescript)
   - [Ruby](#ruby)
 
 ## Roc
 
-I originally started with Haskell, but it was a bit of a slog. (You can still see Haskell resources commented out in [the raw file of this list](https://raw.githubusercontent.com/fpsvogel/learn-functional-programming/main/README.md).) Roc is smaller and tries to incorporate some strengths of dynamic languages, so it looks like an easier place for me to start.
+I originally started with Haskell, but it was a bit of a slog. [The raw file of this list](https://raw.githubusercontent.com/fpsvogel/learn-functional-programming/main/README.md) still contains commented-out sections for Haskell and Elixir (another one I *probably* won't learn).
+
+Roc seems like an easier place to start because it's intentionally small and tries to incorporate some of the strengths of dynamic languages, while being fully statically typed.
 
 ### Community
 
@@ -157,7 +153,7 @@ I probably won't get into this, but I'm saving these just in case.
 - [Haskell Books](https://www.extrema.is/articles/haskell-books)
 - [Haskell - Documentation (books, courses, etc.)](https://www.haskell.org/documentation/) -->
 
-## Elixir
+<!-- ## Elixir
 
 Because it's a different take on FP: less pure and with unique advantages offered by the BEAM platform. (But these advantages are not yet completely realized, i.e. it's a work in progress, according to the talk [The Soul of Erlang & Elixir](https://www.youtube.com/watch?v=JvBT4XBdoUE).)
 
@@ -185,7 +181,7 @@ Because it's a different take on FP: less pure and with unique advantages offere
 
 ### More resources
 
-- ["Learning" page on the Elixir site](https://elixir-lang.org/learning.html)
+- ["Learning" page on the Elixir site](https://elixir-lang.org/learning.html) -->
 
 ## FP in non-FP languages
 
