@@ -16,28 +16,19 @@ This is not meant to be an exhaustive list of FP resources, only my path to lear
   - [Reference](#reference)
   - [Exercises](#exercises)
   - [Projects](#projects)
-- [Haskell](#haskell)
+- [Elixir](#elixir)
   - [Community](#community-1)
-  - [Reference](#reference-1)
   - [Courses, etc.](#courses-etc)
   - [Exercises](#exercises-1)
   - [Projects](#projects-1)
-  - [Articles](#articles)
-  - [Dependent types, type theory](#dependent-types-type-theory)
   - [More resources](#more-resources)
-- [Elixir](#elixir)
-  - [Community](#community-2)
-  - [Courses, etc.](#courses-etc-1)
-  - [Exercises](#exercises-2)
-  - [Projects](#projects-2)
-  - [More resources](#more-resources-1)
 - [FP in non-FP languages](#fp-in-non-fp-languages)
   - [TypeScript](#typescript)
   - [Ruby](#ruby)
 
 ## Roc
 
-I originally started with Haskell, but it was a bit of a slog. Roc is smaller and tries to incorporate some strengths of dynamic languages, so it looks like an easier place for me to start.
+I originally started with Haskell, but it was a bit of a slog. (You can still see Haskell resources commented out in [the raw file of this list](https://raw.githubusercontent.com/fpsvogel/learn-functional-programming/main/README.md).) Roc is smaller and tries to incorporate some strengths of dynamic languages, so it looks like an easier place for me to start.
 
 ### Community
 
@@ -64,7 +55,7 @@ I originally started with Haskell, but it was a bit of a slog. Roc is smaller an
 
 - [ ] Make a text-based game.
 
-## Haskell
+<!-- ## Haskell
 
 Because it's often recommended for learning FP in its purest form.
 
@@ -166,7 +157,7 @@ I probably won't get into this, but I'm saving these just in case.
 - [awesome-learning-haskell](https://github.com/tweag/awesome-learning-haskell)
 - ["Resources" section in The Haskell Guide](https://haskell-docs.netlify.app/resources/resources/)
 - [Haskell Books](https://www.extrema.is/articles/haskell-books)
-- [Haskell - Documentation (books, courses, etc.)](https://www.haskell.org/documentation/)
+- [Haskell - Documentation (books, courses, etc.)](https://www.haskell.org/documentation/) -->
 
 ## Elixir
 
