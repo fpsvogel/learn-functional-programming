@@ -30,9 +30,9 @@ Roc seems like an easier place to start because it's intentionally small and tri
 
 ### Learning
 
-- [x] [Official tutorial](https://www.roc-lang.org/tutorial)
-- [x] [Introduction to Roc (video)](https://www.youtube.com/watch?v=7R204VUlzGc)
-- [ ] [Abilities](https://www.roc-lang.org/abilities)
+- [Official tutorial](https://www.roc-lang.org/tutorial)
+- [Introduction to Roc (video)](https://www.youtube.com/watch?v=7R204VUlzGc)
+- [Abilities](https://www.roc-lang.org/abilities)
 
 ### Reference
 
@@ -42,12 +42,12 @@ Roc seems like an easier place to start because it's intentionally small and tri
 
 ### Exercises
 
-- [ ] [Exercism - Roc](https://exercism.org/tracks/roc)
-- [ ] [Advent of Code](https://adventofcode.com) with [Roc template](https://github.com/lukewilliamboswell/aoc-template) and [Roc solutions for 2023](https://github.com/scott2000/advent-of-code-2023)
+- [Exercism - Roc](https://exercism.org/tracks/roc)
+- [Advent of Code](https://adventofcode.com) with [Roc template](https://github.com/lukewilliamboswell/aoc-template) and [Roc solutions for 2023](https://github.com/scott2000/advent-of-code-2023)
 
 ### Projects
 
-- [ ] Make a text-based game.
+- Make a text-based game.
 
 ## FP in non-FP languages
 
