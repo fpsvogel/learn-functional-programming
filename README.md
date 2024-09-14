@@ -32,7 +32,6 @@ Roc seems like an easier place to start because it's intentionally small and tri
 
 - [Official tutorial](https://www.roc-lang.org/tutorial)
 - [Introduction to Roc (video)](https://www.youtube.com/watch?v=7R204VUlzGc)
-- [Abilities](https://www.roc-lang.org/abilities)
 
 ### Reference
 
