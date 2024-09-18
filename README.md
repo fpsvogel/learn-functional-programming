@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Learn functional programming: a Rubyist's list
+# Learn functional programming
 
 Hi! I'm on a journey to learn functional programming (FP). Won't you join me?
 
@@ -14,9 +14,6 @@ If you notice any broken links here, please let me know by [opening an issue](ht
   - [Reference](#reference)
   - [Exercises](#exercises)
   - [Projects](#projects)
-- [FP in non-FP languages](#fp-in-non-fp-languages)
-  - [TypeScript](#typescript)
-  - [Ruby](#ruby)
 
 ## Roc
 
@@ -48,7 +45,7 @@ Roc seems like an easier place to start because it's intentionally small and tri
 
 - Make a text-based game.
 
-## FP in non-FP languages
+<!--## FP in non-FP languages
 
 Because my goal in learning FP is not to switch to a different stack, but to become a better programmer in the languages that I use now.
 
@@ -57,7 +54,7 @@ Because my goal in learning FP is not to switch to a different stack, but to bec
 - FP libraries: [Purify](https://gigobyte.github.io/purify/), [Effect](https://effect.website/), [fp-ts](https://gcanti.github.io/fp-ts/)
 - [TypeScript for Functional Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html)
 - [How to Write TypeScript Like a Haskeller](https://serokell.io/blog/typescript-for-haskellers)
-- See also [TypeScript resources in my "Learn Ruby" list](https://github.com/fpsvogel/learn-ruby#typescript)
+- See also [TypeScript resources in my "Learn Ruby" list](https://github.com/fpsvogel/learn-ruby/tree/58a6b4692c42bad14e8e9cead5935f9522a19ddf#typescript)
 
 ### Ruby
 
@@ -69,7 +66,7 @@ Because my goal in learning FP is not to switch to a different stack, but to bec
 - Hanami/dry-rb ecosystem
   - [This blog series by Tim Riley](https://www.icelab.com.au/notes/conversational-rom-rb-part-2-types-associations-and-update-commands) is a good introduction. The linked article is the last one; scroll to the bottom to see a list of all the posts in the series.
   - Learn the [Hanami](https://hanamirb.org/) framework with [Hanami Mastery](https://hanamimastery.com) and example apps found in GitHub repo searches ([1](https://github.com/search?q=hanami+example+pushed%3A%3E2022-01-01&type=repositories), [2](https://github.com/search?q=hanami+app+pushed%3A%3E2022-01-01&type=repositories), [3](https://github.com/search?q=hanami+application+pushed%3A%3E2022-01-01&type=repositories), [4](https://github.com/search?q=hanami+software+pushed%3A%3E2022-01-01&type=repositories)).
-  - Explore [dry-rb](https://dry-rb.org/) gems.
+  - Explore [dry-rb](https://dry-rb.org/) gems. -->
 
 <!-- ## Haskell
 
