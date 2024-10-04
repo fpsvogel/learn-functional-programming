@@ -41,9 +41,14 @@ Roc seems like an easier place to start because it's intentionally small and tri
 - [Exercism - Roc](https://exercism.org/tracks/roc)
 - [Advent of Code](https://adventofcode.com) with [Roc template](https://github.com/lukewilliamboswell/aoc-template) and [Roc solutions for 2023](https://github.com/scott2000/advent-of-code-2023)
 
-### Projects
+### Projects to study
 
-- Make a text-based game.
+- [Roctris](https://github.com/jared-cone/roctris): terminal Tetris clone
+- [roc-wasm4](https://github.com/lukewilliamboswell/roc-wasm4) and examples
+
+### Projects to build
+
+- Make a game (text-based?).
 
 <!--## FP in non-FP languages
 
